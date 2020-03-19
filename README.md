@@ -1,4 +1,4 @@
 # hello-world
 tutorial repository
 
-hi my name is johyeong and it is the first time I access in Github!
+i want to change this code, so I'm erase some sentence!! hahaha
